@@ -1,0 +1,7 @@
+deal_id,brand_sponsor,industry_vertical,contract_value_usd,current_lifecycle_stage,deliverable_format,target_publish_date,contract_executed_date,invoice_number,payment_due_date,settlement_status
+DEAL-101,Supabase,Cloud Infrastructure / DB,9500.00,DELIVERABLES_IN_PROGRESS,Dedicated 60s Integration + Newsletter Blast,2026-12-05,2026-11-15,INV-2026-088,2027-01-05,PENDING_DELIVERY_SIGNOFF
+DEAL-102,Linear App,Productivity & Issue Tracking,12500.00,INVOICED,Dedicated Segment + X/Twitter Workflow Thread,2026-11-18,2026-10-28,INV-2026-079,2026-12-18,AWAITING_ACH_WIRE_NET30
+DEAL-103,Datadog,Cloud Monitoring & APM,16000.00,NEGOTIATION,2x Dedicated YouTube Episodes + Discord AMA,2027-01-15,,Pending,,IN_CONTRACT_REDLINES
+DEAL-104,Nord Security,Cybersecurity & Privacy,7200.00,PAID,90s Pre-roll + Community Post,2026-11-05,2026-10-15,INV-2026-064,2026-11-20,SETTLED_AND_CLEARED
+DEAL-105,Postman,API Development Platform,8800.00,CONTRACT_SIGNED,Dedicated Workshop + GitHub Repo Demo,2026-12-20,2026-11-20,Pending,2027-01-20,PRE_PRODUCTION_SCRIPTING
+DEAL-106,Sentry,Application Performance Monitoring,11000.00,INQUIRY,Sponsored Debugging Deep Dive,2027-02-10,,,Pending,,INBOUND_QUALIFICATION

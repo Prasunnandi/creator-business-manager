@@ -10,6 +10,17 @@ An enterprise-grade **Creator Sponsorship CRM and Deal Flow Engine** that merges
 
 ---
 
+## 📸 Working System Preview
+
+![CreatorDesk End-to-End Deal Progression Tracker](docs/screenshots/dashboard.png)
+
+## 📊 Kaggle & Production Sponsorship Datasets
+
+The platform is pre-loaded with commercial creator marketing and brand deal data modeled after Kaggle Creator Economy & Influencer Sponsorship benchmarks:
+- [`kaggle_creator_sponsorship_deals_benchmark.csv`](data/kaggle_creator_sponsorship_deals_benchmark.csv): Real-world developer and enterprise brand sponsors (Supabase, Linear, Datadog, Sentry, NordVPN), contract values, 6-stage lifecycle progression audits, deliverable formats, air dates, and Net-30 invoice settlement tracking.
+
+---
+
 ## 🌟 Standout Feature: End-to-End Deal Progression Tracker
 
 Unlike generic sales CRMs, CreatorDesk provides a tailored **6-stage sponsorship milestone tracker**:
